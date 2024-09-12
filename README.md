@@ -10,8 +10,13 @@ move two fingers up and down to zoom <br />
 move three fingers to change seed <br/>
 
 
-## Compiling using MSVC 2022
-todo
+## Compiling using MSVC 2022 (WIP)
+Library used
+- GLFW
+- glew
+- stb_image
+- GLM please put it in the includes folder. get it here https://github.com/g-truc/glm
+
 
 ## Acknowledgement
 The Julia CUDA code is based on the code from "CUDA by examples" book by Jason Sanders and Edward Kandrot.<br/>
