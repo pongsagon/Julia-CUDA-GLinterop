@@ -4,7 +4,7 @@
 # Julia-CUDA-GLinterop
 Using CUDA to compute Julia fractal, drawing using OpenGL, use win32 for touch input <br />
 Rendering at 4K, each pixel compute using 1200 iterations, running at 10-15fps on RTX4090 <br />
-This version use CUDA/OpenGL interop to draw the result as a full screen texture quad. I am also using shader.h from learnopengl.com by Joey de Vries to init some shader codes.
+This version use CUDA/OpenGL interop to draw the result as a full screen texture quad. I am also using shader.h and some other gl code snippets  from learnopengl.com by Joey de Vries to init some shader codes.
 
 ## User guides
 The code uses touch input.  You can add glfw code for keyboard and mouse inputs <br />
