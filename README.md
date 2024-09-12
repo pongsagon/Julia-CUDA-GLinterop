@@ -1,3 +1,6 @@
+
+![julia](https://github.com/user-attachments/assets/dc2c089b-eff8-4fb5-85a1-ffde85dc4302)
+
 # Julia-CUDA-GLinterop
 Using CUDA to compute Julia fractal, drawing using OpenGL, use win32 for touch input <br />
 Rendering at 4K, each pixel compute using 1200 iterations, running at 10-15fps on RTX4090 <br />
